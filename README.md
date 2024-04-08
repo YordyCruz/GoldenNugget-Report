@@ -1,4 +1,4 @@
-# GoldenNugget_
+# Golden Nugget 
 
 Within the attached report on the Golden Nugget Casino, you will find the analysis and breakdown of the hotel’s website. This report will highlight the ways in which the website is effective as well as ineffective in reaching out to a broader audience. 
 
